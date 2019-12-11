@@ -1,2 +1,1 @@
-# datacamp-self-learning-projects
-# ab testing project- bootstrap 
+ ab testing project- bootstrap 
